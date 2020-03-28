@@ -10,5 +10,5 @@
 </p>
 
 ## Functional Programming
- - [Introduction](https://github.com/ashyantony7/HackerRank_Haskell/tree/master/Functional_Progamming/Introduction)
- - [Recursion](https://github.com/ashyantony7/HackerRank_Haskell/tree/master/Functional_Progamming/Recursion)
+ - [Introduction](https://github.com/ashyantony7/HackerRank_Haskell/tree/master/Functional_Programming/Introduction)
+ - [Recursion](https://github.com/ashyantony7/HackerRank_Haskell/tree/master/Functional_Programming/Recursion)
