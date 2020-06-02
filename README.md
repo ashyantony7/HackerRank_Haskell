@@ -13,3 +13,4 @@
  - [Introduction](https://github.com/ashyantony7/HackerRank_Haskell/tree/master/Functional_Programming/Introduction)
  - [Recursion](https://github.com/ashyantony7/HackerRank_Haskell/tree/master/Functional_Programming/Recursion)
  - [Ad_Hoc](https://github.com/ashyantony7/HackerRank_Haskell/tree/master/Functional_Programming/Ad_Hoc)
+ - [Memoization_and_DP](https://github.com/ashyantony7/HackerRank_Haskell/tree/master/Functional_Programming/Memoization_and_DP)
